@@ -1,4 +1,8 @@
-torch==2.2.2+cu311
-pytorch_lightning==2.2.2
-transformers==4.39.3
+torch==2.2.2
+transformers==4.40.0
 pandas==2.2.2
+numpy==1.26.4
+Flask==3.0.3
+joblib==1.4.0
+gunicorn==21.2.0
+python-dotenv==0.19.1
